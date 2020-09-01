@@ -9,3 +9,4 @@ https://github.com/Annie-Huang/webpack-typescript
 C:\react\webpack-typescript>tsc --init
 message TS6071: Successfully created a tsconfig.json file.
 
+C:\react\webpack-typescript>npm init -y
