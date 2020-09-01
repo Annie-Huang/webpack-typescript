@@ -1,0 +1,7 @@
+Webpack & TypeScript Setup
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hOkGbwzgYFmaxB0WiduYJC
+
+https://github.com/iamshaunjp/webpack-and-typescript
+https://github.com/Annie-Huang/webpack-typescript
+
+=====================================================================
