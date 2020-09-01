@@ -5,6 +5,9 @@ https://github.com/iamshaunjp/webpack-and-typescript
 https://github.com/Annie-Huang/webpack-typescript
 
 =====================================================================
+Start episode:
+Webpack & TypeScript Setup #3 - Webpack Config File
+
 
 C:\react\webpack-typescript>tsc --init
 message TS6071: Successfully created a tsconfig.json file.
@@ -19,6 +22,6 @@ test: /\.ts$/
 \ means escape, without . means any character
 $ means it has to be at the end
 
+C:\react\webpack-typescript>npm run build
 
-Start episode:
-Webpack & TypeScript Setup #3 - Webpack Config File
+
