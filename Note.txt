@@ -11,3 +11,7 @@ message TS6071: Successfully created a tsconfig.json file.
 
 C:\react\webpack-typescript>npm init -y
 C:\react\webpack-typescript>npm install webpack webpack-cli ts-loader -D
+
+You will need to install typescript locally for the webpack to work properly. Install it globally will not work
+C:\react\webpack-typescript>npm install typescript -D
+
