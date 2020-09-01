@@ -15,5 +15,10 @@ C:\react\webpack-typescript>npm install webpack webpack-cli ts-loader -D
 You will need to install typescript locally for the webpack to work properly. Install it globally will not work
 C:\react\webpack-typescript>npm install typescript -D
 
+test: /\.ts$/
+\ means escape, without . means any character
+$ means it has to be at the end
+
+
 Start episode:
 Webpack & TypeScript Setup #3 - Webpack Config File
