@@ -5,3 +5,7 @@ https://github.com/iamshaunjp/webpack-and-typescript
 https://github.com/Annie-Huang/webpack-typescript
 
 =====================================================================
+
+C:\react\webpack-typescript>tsc --init
+message TS6071: Successfully created a tsconfig.json file.
+
