@@ -6,7 +6,7 @@ https://github.com/Annie-Huang/webpack-typescript
 
 =====================================================================
 Start episode:
-Webpack & TypeScript Setup #3 - Webpack Config File
+Webpack & TypeScript Setup #4 - Webpack Dev Server
 
 
 C:\react\webpack-typescript>tsc --init
