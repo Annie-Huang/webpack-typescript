@@ -1,6 +1,8 @@
 const path = require('path');
 
+// For prod, you should use devtool: 'source-map',
 module.exports = {
+  devtool: 'eval-source-map',
   entry: './src/index.ts',
   module: {
     rules: [
