@@ -33,3 +33,13 @@ http://localhost:8080/public/
 C:\react\webpack-typescript>npm run build
 C:\react\webpack-typescript>npm run start
 Now if you click the error in the console, devtool will direct you to the index.ts file location where it causes the error.
+
+
+WARNING in configuration
+The 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'producti
+on' to enable defaults for each environment.
+You can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/configuration/mode/
+
+To get rid of above warning, add:
+  mode: 'development',
+Read more in https://webpack.js.org/configuration/mode/
