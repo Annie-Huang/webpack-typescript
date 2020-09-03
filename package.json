@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+      "start": "lite-server --baseDir=./public",
     "serve": "webpack-dev-server",
     "build": "webpack"
   },
