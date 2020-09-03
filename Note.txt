@@ -28,3 +28,8 @@ C:\react\webpack-typescript>npm install webpack-dev-server -D
 C:\react\webpack-typescript>npm run serve
 http://localhost:8080/
 http://localhost:8080/public/
+
+
+C:\react\webpack-typescript>npm run build
+C:\react\webpack-typescript>npm run start
+Now if you click the error in the console, devtool will direct you to the index.ts file location where it causes the error.
